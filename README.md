@@ -2,7 +2,7 @@
 How many days between two persian dates ?
 Count it by using KhorshidiDiff
 
-#How to use
+# How to use
 How to use KhorshidiDiff ?
 ## 1. Simple usage
 `$obj = new KhorshidiDiff;`
