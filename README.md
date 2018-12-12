@@ -7,6 +7,6 @@ How to use KhorshidiDiff ?
 ## 1. Simple usage
 `$obj = new KhorshidiDiff;`
 
-`$diff = $obj->dateDiff("1397/01/01","1397/01/03","/"); // the third parametr is delimiter`
+`$diff = $obj->dateDiff("1397/01/01","1397/01/03","/"); // the third parameter is delimiter`
 
 `echo $diff; // result is 3`
